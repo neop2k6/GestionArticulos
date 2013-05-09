@@ -8,7 +8,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author MRWhite
+ * @author MRBrown
  */
 public class Almacen {
 
